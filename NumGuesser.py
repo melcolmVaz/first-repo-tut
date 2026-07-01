@@ -38,4 +38,3 @@ while True:
     last_msg_len = len(msg)
 
 del n, l, last_msg_len
-error=1
