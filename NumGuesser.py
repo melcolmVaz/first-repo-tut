@@ -1,5 +1,6 @@
 # Number guesser
 import random
+a=1
 
 low = int(input("Enter the starting number : "))
 high = int(input("Enter the ending number : "))
